@@ -1,6 +1,5 @@
 {
   "packs": [
-    "emotes.json",
     "discordemotes.json"
   ],
   "homeserver_url": "https://uwu.just-h.party"
