@@ -19,14 +19,6 @@ If you prefer video tutorials, [Brodie Robertson](https://www.youtube.com/c/Brod
 * [Dimension](https://github.com/turt2live/matrix-dimension) is an alternate integration manager. It can be self-hosted, but it's more difficult than Maunium sticker picker.
 * Maunium sticker picker is just a sticker picker rather than a full integration manager. It's much simpler than integration managers, but currently has to be set up manually per-user.
 
-| Feature                         | Scalar | Dimension | Maunium sticker picker |
-|---------------------------------|--------|-----------|------------------------|
-| Free software                   | ❌     | ✔️        | ✔️                     |
-| Custom sticker packs            | ❌     | ✔️        | ✔️                     |
-| Telegram import                 | ❌     | ✔️        | ✔️                     |
-| Works on Element mobiles        | ✔️     | ❌        | ✔️                     |
-| Easy multi-user setup           | ✔️     | ✔️        | ❌<sup>[#7][#7]</sup>  |
-| Frequently used stickers at top | ❌     | ❌        | ✔️                     |
 
 [#7]: https://github.com/maunium/stickerpicker/issues/7
 
